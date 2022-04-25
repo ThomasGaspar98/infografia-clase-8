@@ -1,0 +1,57 @@
+var radnum = Math.floor(Math.random() * 11);
+     if( radnum =="0") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s1.json'; var datasetNum = 'set related #ONE';}
+else if( radnum =="1") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s2.json'; var datasetNum = 'set related #TWO';}
+else if( radnum =="2") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s3.json'; var datasetNum = 'set related #THREE';}
+else if( radnum =="3") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s4.json'; var datasetNum = 'set related #FOUR';}
+else if( radnum =="4") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s5.json'; var datasetNum = 'set related #FIVE';}
+else if( radnum =="5") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s6.json'; var datasetNum = 'set related #SIX';}
+else if( radnum =="6") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s7.json'; var datasetNum = 'set related #SEVEN';}
+else if( radnum =="7") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s8.json'; var datasetNum = 'set related #EIGHT';}
+else if( radnum =="8") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s9.json'; var datasetNum = 'set related #NINE';}
+else if( radnum =="9") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s10.json'; var datasetNum = 'set related #TEN';}
+else if( radnum =="10") {var jsonsource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s11.json'; var datasetNum = 'set related #ELEVEN';}
+
+var radnum_footer = Math.floor(Math.random() * 11);
+     if( radnum_footer =="0") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s11.json'; var datasetNum = 'set related #ELEVEN';}
+else if( radnum_footer =="1") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s10.json'; var datasetNum = 'set related #TEN';}
+else if( radnum_footer =="1") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s9.json'; var datasetNum = 'set related #NINE';}
+else if( radnum_footer =="3") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s8.json'; var datasetNum = 'set related #EIGHT';}
+else if( radnum_footer =="4") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s7.json'; var datasetNum = 'set related #SEVEN';}
+else if( radnum_footer =="5") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s6.json'; var datasetNum = 'set related #SIX';}
+else if( radnum_footer =="6") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s5.json'; var datasetNum = 'set related #FIVE';}
+else if( radnum_footer =="7") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s4.json'; var datasetNum = 'set related #FOUR';}
+else if( radnum_footer =="8") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s3.json'; var datasetNum = 'set related #three';}
+else if( radnum_footer =="9") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s2.json'; var datasetNum = 'set related #two';}
+else if( radnum_footer =="10") {var jsonFootersource = 'https://multimedia.scmp.com/2018/data/plusGraphics_s1.json'; var datasetNum = 'set related #one';}
+
+$.getJSON( jsonFootersource, function( data ) {
+      var moreGraphs = [];
+      $.each( data, function( key,val ) {
+        moreGraphs += '<a class="link" href="' + val.LOCATION + '"">';
+        moreGraphs += '<div class="work">';
+        moreGraphs += '<img class="thumb" src="' + val.IMAGE +'">';
+        moreGraphs += '<p>';
+        moreGraphs += '<span>' + val.DATE + '</span><br>';  
+        moreGraphs += ' ' + val.TITLE + ' ';
+        moreGraphs += '</p>';
+        moreGraphs += '</div>';  
+        moreGraphs += '</a>';
+      });
+      $('#SCMP_links').append(moreGraphs);
+});
+$.getJSON( jsonsource, function( data ) {
+      var stickyGraphs = [];
+      $.each( data, function( key,val ) {
+        stickyGraphs += '<p class="note">STAFF<br>PICKS</p>';
+        stickyGraphs += '<a class="link" href="' + val.LOCATION + '">';
+        stickyGraphs += '<div class="work">';
+        stickyGraphs += '<img class="thumb" src="' + val.IMAGE +'">';
+        stickyGraphs += '<p>';
+        stickyGraphs += '<span>' + val.DATE + '</span><br>';  
+        stickyGraphs += ' ' + val.TITLE + ' ';
+        stickyGraphs += '</p>';
+        stickyGraphs += '</div>';  
+        stickyGraphs += '</a>';
+      });
+      $('#SCMP_fixedlinks').append(stickyGraphs);
+});

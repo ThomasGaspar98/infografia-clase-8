@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 540" style="enable-background:new 0 0 96 540;" xml:space="preserve">
+<style type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+	.st0{fill:#C9C9C9;}
+	.st1{font-family:'Roboto';font-weight: 400;}
+	.st2{font-size:15px;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'Roboto';font-weight: 300;}
+	.st5{font-size:16px;}
+</style>
+<rect x="32.3" y="428.1" class="st0" width="31" height="103.9"/>
+<path d="M47.9,42V29.2c7.1,0,12.8,5.7,12.8,12.8S55,54.8,47.9,54.8S35,49.1,35,42s5.7-12.8,12.8-12.8l0,0V42H47.9z"/>
+<text transform="matrix(1 0 0 1 27.6647 95.9191)" class="st1 st2">3,100</text>
+<text transform="matrix(1 0 0 1 27.6647 227.903)" class="st1 st2">2,081</text>
+<path d="M47.9,175.3v-20.7c11.4,0,20.7,9.3,20.7,20.7S59.3,196,47.9,196s-20.7-9.3-20.7-20.7s9.3-20.7,20.7-20.7l0,0V175.3z"/>
+<path d="M48,312.3v-46.8c25.8,0,46.8,20.9,46.8,46.8c0,25.8-20.9,46.8-46.8,46.8s-46.8-21-46.8-46.8c0-25.8,20.9-46.8,46.8-46.8l0,0
+	V312.3z"/>
+<g>
+	<text transform="matrix(1 0 0 1 21.2594 374.1722)" class="st1 st2">102,941</text>
+</g>
+<rect x="32.3" y="443.3" width="31" height="88.7"/>
+<g>
+	<text transform="matrix(1 0 0 1 33.3918 487.5179)" class="st3 st1 st2">85.4</text>
+</g>
+<text transform="matrix(1 0 0 1 34.6351 423.8636)" class="st0 st4 st5">100</text>
+</svg>

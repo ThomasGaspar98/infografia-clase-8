@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 540" style="enable-background:new 0 0 96 540;" xml:space="preserve">
+<style type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+	.st0{fill:#C9C9C9;}
+	.st1{font-family:'Roboto';font-weight: 400;}
+	.st2{font-size:15px;}
+	.st3{font-family:'Roboto';font-weight: 300;}
+	.st4{font-size:16px;}
+	.st5{fill:#FFFFFF;}
+</style>
+<rect x="32.258" y="428.14725" class="st0" width="30.9919" height="103.85275"/>
+<path d="M48,42.00215v-9.50708c5.25061,0,9.50708,4.25646,9.50708,9.50708S53.25061,51.50923,48,51.50923
+	s-9.50708-4.25646-9.50708-9.50708S42.74939,32.49508,48,32.49508l0,0V42.00215z"/>
+<text transform="matrix(1 0 0 1 29.68225 95.91919)" class="st1 st2">1,700</text>
+<text transform="matrix(1 0 0 1 29.68225 227.90308)" class="st1 st2">6,184</text>
+<path d="M48,175.31302V139.5876c19.7306,0,35.72542,15.99481,35.72542,35.72542S67.7306,211.03844,48,211.03844
+	s-35.72541-15.99481-35.72541-35.72542S28.2694,139.5876,48,139.5876l0,0V175.31302z"/>
+<path d="M48,312.29691V277.354c19.29844,0,34.94292,15.64447,34.94292,34.9429c0,19.29846-15.64448,34.94293-34.94292,34.94293
+	s-34.94292-15.64447-34.94292-34.94293c0-19.29843,15.64448-34.9429,34.94292-34.9429l0,0V312.29691z"/>
+<g>
+	<text transform="matrix(1 0 0 1 25.47083 374.17236)" class="st1 st2">57,451</text>
+</g>
+<rect x="32.258" y="443.2059" width="30.9919" height="88.79411"/>
+<text transform="matrix(1 0 0 1 34.63513 423.86365)" class="st0 st3 st4">100</text>
+<g>
+	<text transform="matrix(1 0 0 1 33.39185 487.51807)" class="st5 st1 st2">85.5</text>
+</g>
+</svg>

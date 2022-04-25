@@ -1,0 +1,132 @@
+/*
+USE THIS FILE
+TO ADD YOUR
+CUSTOM CSS
+STYLES
+*/
+section.intro h1{max-width:700px;} /* for small titles, increase it if is needed*/
+
+.clear30 {margin: 30px 0}
+.clear60 {margin: 60px 0}
+.clear100 {margin: 100px 0}
+.clear150 {margin: 150px 0}
+
+.subhed {
+    font-family:'Merriweather';
+    text-align: center;
+    font-size: 18px
+}
+
+.source {
+    font-size: 12px!important;
+}
+
+fullContent input{
+    font-size:14px;
+}
+.fullContent#top200{
+    position: relative;
+    z-index: 0
+}
+
+.holder {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.map:not(#us-d):not(#us-m):not(#target01b):not(#target05a){
+    display: none;
+}
+
+#radioButtions {
+    width: 100%;
+    max-width: 425px;
+    display: block;
+    margin: 0 auto;
+}
+.fullContent#radioInput {
+    font-size:14px;
+    font-weight:100;
+    line-height: 1.8em;
+    text-align: left;
+    width: 100%;
+    max-width: 425px;
+    display: block;
+    margin: 0 auto;
+    background-image: url(../img/grad.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    z-index: 1;
+}
+
+.fullContent .inputSpace {
+    width:20px;
+    height:16px;
+    background-color:white;
+    display:inline-block
+}
+
+.max1200 {
+    width: 100%;
+    max-width: 1200px;
+    display: block;
+    margin: 0 auto;
+    padding:0 10px
+}
+
+.max960 {
+    width: 100%;
+    max-width: 960px;
+    display: block;
+    margin: 0 auto
+}
+
+.max425 {
+    width: 100%;
+    max-width: 425px;
+    display: block;
+    margin: 0 auto
+}
+
+.max320 {
+    width: 100%;
+    max-width: 320px;
+    display: block;
+    margin: 0 auto
+}
+
+/*----------------------------------------split container */
+
+.split{
+    position: relative;
+    width: 100%;
+}
+.split .col{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 auto;
+    text-align: center;
+}
+.split p.col{    
+    font-size: 14px;
+    line-height: 1.3em;
+    text-align: left;
+}
+.split .col.x1{width: 28%;}
+.split .col.x2{width: 40%}
+
+.split .col .SVGgraphic.col{
+    height: 100%;
+    max-height: 540px;
+    margin: 0 auto;
+}
+
+.split .col .byNum {
+    position: relative;
+}
+
+.byNumbersA, .byNumbersB {
+    position: relative
+}

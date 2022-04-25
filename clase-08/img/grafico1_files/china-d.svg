@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 698" style="enable-background:new 0 0 1200 698;" xml:space="preserve">
+<style type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=Merriweather:300|Roboto:300,500,700');
+	.st0{fill:none;stroke:#BCBEC0;stroke-width:0.25;stroke-miterlimit:10;}
+	.st1{fill:#E6E7E8;stroke:#FFFFFF;stroke-width:0.35;stroke-miterlimit:1;}
+	.st2{font-family:'Merriweather';font-weight: 300;}
+	.st3{font-size:16px;}
+    .st3a{font-size:28px;}
+	.st4{font-family:'Roboto';font-weight: 700;}
+	.st5{font-family:'Roboto';font-weight: 300;}
+	.st6{font-size:14px;}
+	.st7{fill:#00B8A5;}
+	.st8{opacity:0;fill:#00B8A5;enable-background:new    ;}
+	.st9{opacity:0;fill:#000000;}
+	.st10{font-family:'Roboto';font-weight: 500;}
+	.st11{font-size:12px;}
+	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#CCCCCC;}
+    
+    .shRect{fill:#000000;}
+    .shRank{font-size:28px;font-family:'Roboto';font-weight: 700;opacity:1;fill:#00B8A5;enable-background:new    ;}
+    .sh{font-size:12px;font-family:'Roboto';font-weight: 500;opacity:1;fill:#000000;}
+    .shCircle{fill-rule:evenodd;clip-rule:evenodd;fill:#000000;}
+    
+    .hover{cursor:pointer;}
+    .hover:hover .st7{fill:#000000;}
+    .hover:hover .st8{opacity:1}
+    .hover:hover .st9{opacity:1;}
+    .hover:hover .st12{fill:#000000}
+    
+    .all:hover .shRect{fill:#00B8A5;}
+    .all:hover .shRank{opacity:0;}
+    .all:hover .sh{opacity:0;}
+    .all:hover .shCircle{fill:#CCCCCC;}
+    
+    #shenzhen:hover .shRect{fill:#000000;}
+    #shenzhen:hover .shRank{opacity:1;}
+    #shenzhen:hover .sh{opacity:1;}
+    #shenzhen:hover .shCircle{fill:#000000;}
+</style>
+<path class="st0" d="M22.44067,175.65858c0-69.1592,7.94531-125.22382,17.74635-125.22382s17.74636,56.06461,17.74636,125.22382"/>
+<path class="st0" d="M57.93339,175.65858c0-69.1592,4.18276-125.22382,9.34245-125.22382
+	c5.1597,0,9.34245,56.06461,9.34245,125.22382"/>
+<path class="st0" d="M76.61829,175.65858c0-69.1592,5.29688-125.22382,11.83091-125.22382s11.83091,56.06461,11.83091,125.22382"/>
+<path class="st0" d="M100.28011,175.65858c0-69.1592,1.32422-125.22382,2.95773-125.22382s2.95773,56.06461,2.95773,125.22382"/>
+<path class="st0" d="M250.98206,175.65858c0-69.1592,1.32422-125.22382,2.95773-125.22382
+	c1.6335,0,2.95773,56.06461,2.95773,125.22382"/>
+<path class="st0" d="M256.89752,175.65858c0-69.1592,1.32422-125.22382,2.95773-125.22382
+	c1.63348,0,2.95773,56.06461,2.95773,125.22382"/>
+<path class="st0" d="M106.19556,175.65858c0-69.1592,9.47964-125.22382,21.17336-125.22382s21.17336,56.06461,21.17336,125.22382"/>
+<path class="st0" d="M148.54227,175.65858c0-69.1592,22.93193-125.22382,51.21989-125.22382s51.21989,56.06461,51.21989,125.22382"
+	/>
+<path class="st0" d="M262.81299,175.65858c0-29.68715,13.12421-86.29486,29.31384-86.29486
+	c16.18961,0,29.31384,56.06461,29.31384,125.22383"/>
+<path class="st0" d="M321.44067,214.58754c0-69.15921,13.45227-125.22382,30.04654-125.22382
+	c16.59424,0,30.04654,56.06461,30.04654,125.22382"/>
+<path class="st0" d="M381.53375,214.58754c0-69.15921,1.32422-125.22382,2.9577-125.22382
+	c1.63351,0,2.95773,56.06461,2.95773,125.22382"/>
+<path class="st0" d="M483.97354,214.58754c0-69.15921,1.32422-125.22382,2.95773-125.22382
+	c1.63348,0,2.9577,56.06461,2.9577,125.22382"/>
+<path class="st0" d="M489.88898,214.58754c0-69.15921,2.64844-125.22382,5.91547-125.22382
+	c3.267,0,5.91544,56.06461,5.91544,125.22382"/>
+<path class="st0" d="M387.44919,214.58754c0-69.15921,3.97266-125.22382,8.8732-125.22382
+	c4.90051,0,8.87317,56.06461,8.87317,125.22382"/>
+<path class="st0" d="M620.44067,253.51649c0-69.15921,12.12805-125.22383,27.08887-125.22383
+	c14.96069,0,27.08875,56.06461,27.08875,125.22382"/>
+<path class="st0" d="M674.61829,253.51649c0-69.15921,10.80389-125.22383,24.13116-125.22383
+	c13.32715,0,24.13104,56.06461,24.13104,125.22382"/>
+<path class="st0" d="M722.88049,253.51649c0-69.15921,6.62103-125.22383,14.78864-125.22383
+	c8.16754,0,14.78864,56.06461,14.78864,125.22382"/>
+<path class="st0" d="M843.06665,253.51649c0-69.15921,5.29681-125.22383,11.83087-125.22383s11.83087,56.06461,11.83087,125.22382"
+	/>
+<path class="st0" d="M866.72839,253.51649c0-69.15921,3.97266-125.22383,8.87323-125.22383
+	c4.90051,0,8.87311,56.06461,8.87311,125.22382"/>
+<path class="st0" d="M884.47473,253.51649c0-69.15921,1.32428-125.22383,2.95776-125.22383s2.95776,56.06461,2.95776,125.22382"/>
+<path class="st0" d="M890.39026,253.51649c0-69.15921,1.32422-125.22383,2.9577-125.22383s2.9577,56.06461,2.9577,125.22382"/>
+<path class="st0" d="M752.45776,253.51649c0-69.15921,20.28345-125.22383,45.30444-125.22383
+	c25.02094,0,45.30444,56.06461,45.30444,125.22382"/>
+<path class="st0" d="M913.52527,292.44577c0-69.15919,13.45227-125.22382,30.04657-125.22382
+	c16.59418,0,30.04645,56.06461,30.04645,125.22382"/>
+<path class="st0" d="M973.61829,292.44577c0-69.15919,13.45227-125.22382,30.04657-125.22382
+	c16.59424,0,30.04645,56.06461,30.04645,125.22382"/>
+<path class="st0" d="M1033.71143,292.44577c0-69.15919,1.32422-125.22382,2.95776-125.22382
+	c1.63342,0,2.95764,56.06461,2.95764,125.22382"/>
+<path class="st0" d="M1039.62695,292.44577c0-69.15919,1.3241-125.22382,2.95764-125.22382s2.95764,56.06461,2.95764,125.22382"/>
+<path class="st0" d="M1045.27905,292.44577c0-69.15919,6.67993-125.22382,14.92029-125.22382
+	c8.24023,0,14.92029,56.06461,14.92029,125.22382"/>
+<path class="st0" d="M1075.11963,292.44577c0-69.15919,6.83118-125.22382,15.25793-125.22382
+	c8.42664,0,15.25781,56.06461,15.25781,125.22382"/>
+<path class="st0" d="M1105.63538,292.44577c0-69.15919,8.1554-125.22382,18.2157-125.22382
+	c10.06018,0,18.21558,56.06461,18.21558,125.22382"/>
+<path class="st0" d="M1142.06665,292.44577c0-69.15919,7.94531-125.22382,17.74634-125.22382s17.74634,56.06461,17.74634,125.22382"
+	/>
+<path class="st0" d="M1177.55933,292.44577c0-69.15919,3.97266-125.22382,8.87317-125.22382s8.87317,56.06461,8.87317,125.22382"/>
+<path class="st0" d="M405.19553,214.58754c0-69.15921,10.80386-125.22382,24.1311-125.22382s24.1311,56.06461,24.1311,125.22382"/>
+<path class="st0" d="M453.45773,214.58754c0-69.15921,6.83121-125.22382,15.2579-125.22382s15.2579,56.06461,15.2579,125.22382"/>
+<path class="st0" d="M501.71988,214.58754c0-69.15921,7.94531-125.22382,17.74637-125.22382
+	c9.80103,0,17.7464,56.06461,17.7464,125.22382"/>
+<path class="st0" d="M537.21265,214.58754c0-69.15921,5.50696-125.22382,12.30017-125.22382
+	c6.79315,0,12.30017,56.06461,12.30017,125.22382"/>
+<path class="st0" d="M561.81299,214.58754c0-69.15921,6.62109-125.22382,14.78864-125.22382
+	c8.16748,0,14.78864,56.06461,14.78864,125.22382"/>
+<path class="st0" d="M896.30566,253.51683c0-47.65935,3.85474-86.29488,8.6098-86.29488s8.6098,38.63553,8.6098,86.29489
+	l-0.00018,38.92847"/>
+<path class="st0" d="M591.39026,214.58817c0-47.65935,6.50311-86.29488,14.52515-86.29488
+	c8.02209,0,14.52527,38.63553,14.52527,86.29489l-0.00024,38.92847"/>
+<rect x="2" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="7.91545" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="13.83091" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="25.66181" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="31.57727" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="37.49272" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="49.32363" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="62.09307" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="68.00853" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="79.83944" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="85.75489" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="91.67034" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="109.4167" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="115.33215" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="122.18615" y="172.96428" class="st1" width="5.38862" height="15"/>
+<rect x="128.10161" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="134.01706" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="139.93251" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="151.76341" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="157.67888" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="163.59433" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="169.50978" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="175.42523" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="182.27922" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="188.19469" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="194.11014" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="200.02559" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="205.94104" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="211.85649" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="217.77194" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="223.68741" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="229.60286" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="235.51831" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="242.3723" y="172.96428" class="st1" width="5.38863" height="15"/>
+<rect x="266.03412" y="172.96428" class="st1" width="5.38861" height="15"/>
+<rect x="271.94958" y="172.96428" class="st1" width="5.38861" height="15"/>
+<rect x="277.86502" y="172.96428" class="st1" width="5.38861" height="15"/>
+<rect x="283.78049" y="172.96428" class="st1" width="5.38861" height="15"/>
+<rect x="289.69592" y="172.96428" class="st1" width="5.38861" height="15"/>
+<rect x="295.61139" y="172.96428" class="st1" width="5.38861" height="15"/>
+<rect x="301" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="306.91547" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="312.8309" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="324.6618" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="330.57727" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="336.49271" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="342.40817" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="348.32364" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="354.23907" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="361.09308" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="367.00851" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="372.92398" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="390.67035" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="396.58578" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="408.41672" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="414.33215" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="421.18616" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="427.10159" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="433.01706" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="438.93253" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="444.84796" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="456.67886" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="462.59433" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="468.50977" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="474.42523" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="493.11014" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="504.94104" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="510.85651" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="516.77197" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="522.68738" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="528.60284" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="541.37231" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="547.28778" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="553.20319" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="565.03412" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="570.94958" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="576.86505" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="582.78046" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="594.61139" y="211.89323" class="st1" width="5.38861" height="15"/>
+<rect x="600" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="605.91547" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="611.83093" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="623.6618" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="629.57727" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="635.49274" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="641.4082" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="647.32361" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="653.23907" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="660.09308" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="666.00854" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="677.83942" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="683.75488" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="689.67035" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="695.58582" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="701.50122" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="707.41669" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="713.33215" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="726.10162" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="732.01703" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="737.9325" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="743.84796" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="755.67889" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="761.5943" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="767.50977" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="773.42523" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="780.27924" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="786.1947" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="792.11011" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="798.02557" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="803.94104" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="809.85651" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="815.77197" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="821.68738" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="827.60284" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="833.51831" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="846.28778" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="852.20319" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="858.11865" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="869.94958" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="875.86505" y="250.82217" class="st1" width="5.38861" height="15"/>
+<rect x="899" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="904.91547" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="916.74634" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="922.6618" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="928.57727" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="934.49274" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="940.4082" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="946.32361" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="952.23907" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="959.09308" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="965.00854" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="976.83942" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="982.75488" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="988.67035" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="994.58582" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="1000.50122" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="1006.41669" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="1012.33215" y="289.75113" class="st1" width="5.38861" height="15"/>
+<rect x="1019.18616" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1025.10156" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1048.76343" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1054.67883" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1060.59436" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1066.50977" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1079.27917" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1085.1947" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1091.11011" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1097.02563" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1108.85645" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1114.77197" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1120.68738" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1126.60291" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1132.51831" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1145.28772" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1151.20325" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1157.11865" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1163.03406" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1168.94958" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1180.78052" y="289.75113" class="st1" width="5.38867" height="15"/>
+<rect x="1186.69592" y="289.75113" class="st1" width="5.38867" height="15"/>
+<text transform="matrix(1.00001 0 0 1.00001 126.53989 210.77203)" class="st2 st3">1 to 50</text>
+<text transform="matrix(1.00001 0 0 1.00001 417.04404 249.98065)" class="st2 st3">51 to 100</text>
+<text transform="matrix(1.00001 0 0 1.00001 712.61975 288.66376)" class="st2 st3">101 to 150</text>
+<text transform="matrix(1.00001 0 0 1.00001 1010.29138 327.59985)" class="st2 st3">151 to 200</text>
+<text transform="matrix(1 0 0 1 5 30)" class="st5 st6">City position</text>
+<text transform="matrix(1 0 0 1 125 350)" class="st4 st3">CHINA</text>
+<text transform="matrix(1 0 0 1 125 400)" class="st5 st6">Global rank</text>
+<rect x="43.40817" y="172.96428" class="st1" width="5.38862" height="15"/>
+<image style="overflow:visible;" width="1016" height="748" xlink:href="../img/china.png"  transform="matrix(0.50019 0 0 0.50019 304.00296 319.68396)">
+</image>
+<g class="all">
+<g class="hover">
+	<rect x="617.74634" y="250.82217" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 588.75922 629.07288)" class="st9 st10 st11">Dongguan</text>
+	</g>
+	<circle class="st12" cx="640.48462" cy="636.26929" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">104 Dongguan</text>
+</g>
+<g class="hover">
+	<rect x="881.78046" y="250.82217" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 626.32275 622.9375)" class="st9 st10 st11">Quanzhou</text>
+	</g>
+	<circle class="st12" cx="678.34503" cy="630.00323" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">148 Quanzhou</text>
+</g>
+<g class="hover">
+	<rect x="887.69592" y="250.82217" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 677.49744 646.6795)" class="st9 st10 st11">Xiamen</text>
+	</g>
+	<circle class="st12" cx="671.85468" cy="635.41174" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">149 Xiamen</text>
+</g>
+<g class="hover">
+	<rect x="103.50125" y="172.96428" class="st7" width="5.38862" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 562.52765 638.60693)" class="st9 st10 st11">Guangzhou</text>
+	</g>
+	<circle class="st12" cx="630.55963" cy="639.59125" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">18 Guangzhou</text>
+</g>
+<g class="hover">
+	<rect x="499.02557" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 580.7605 648.96686)" class="st9 st10 st11">Foshan</text>
+	</g>
+	<circle class="st12" cx="627.37744" cy="644.93207" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">84 Foshan</text>
+</g>
+<g class="hover">
+	<rect x="910.83093" y="289.75113" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 691.38464 623.82477)" class="st9 st10 st11">Fuzhou</text>
+	</g>
+	<circle class="st12" cx="685.09155" cy="619.87927" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">153 Fuzhou</text>
+</g>
+<g class="hover">
+	<rect x="73.92398" y="172.96428" class="st7" width="5.38862" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 646.11737 668.94202)" class="st9 st10 st11">Hong Kong</text>
+	</g>
+	<circle class="st12" cx="641.57416" cy="657.23041" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">13 Hong Kong</text>
+</g>
+<g class="hover">
+	<rect x="671.92401" y="250.82217" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 601.03076 674.31158)" class="st9 st10 st11">Macau</text>
+	</g>
+	<circle class="st12" cx="635.13074" cy="659.9776" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">113 Macau</text>
+</g>
+<g class="hover">
+	<rect x="1031.01709" y="289.75113" class="st7" width="5.38867" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 591.26361 659.39172)" class="st9 st10 st11">Zhuhai</text>
+	</g>
+	<circle class="st12" cx="634.50909" cy="653.19855" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">173 Zhuhai</text>
+</g>
+<g class="hover">
+	<rect x="55.23908" y="172.96428" class="st7" width="5.38862" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 706.66168 579.37891)" class="st9 st10 st11">Shanghai</text>
+	</g>
+	<circle class="st12" cx="700.32202" cy="574.29688" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">10 Shanghai</text>
+</g>
+<g class="hover">
+	<rect x="378.83945" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 656.15808 600.07983)" class="st9 st10 st11">Hangzhou</text>
+	</g>
+	<circle class="st12" cx="688.65387" cy="584.97644" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">64 Hangzhou</text>
+</g>
+<g class="hover">
+	<rect x="534.51831" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 708.90259 591.05957)" class="st9 st10 st11">Ningbo</text>
+	</g>
+	<circle class="st12" cx="702.30249" cy="586.75562" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">90 Ningbo</text>
+</g>
+<g class="hover">
+	<rect x="318.74637" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 531.47668 570.79449)" class="st9 st10 st11">Chengdu</text>
+	</g>
+	<circle class="st12" cx="573.2597" cy="577.63031" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">54 Chengdu</text>
+</g>
+<g class="hover">
+	<rect x="481.27924" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 517.56982 591.96826)" class="st9 st10 st11">Chongqing</text>
+	</g>
+	<circle class="st12" cx="582.12982" cy="584.97644" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">81 Chongqing</text>
+</g>
+<g class="hover">
+	<rect x="145.84796" y="172.96428" class="st7" width="5.38863" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 648.55804 580.55963)" class="st9 st10 st11">Suzhou</text>
+	</g>
+	<circle class="st12" cx="692.67468" cy="570.85535" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">25 Suzhou</text>
+</g>
+<g class="hover">
+	<rect x="720.18616" y="250.82217" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 705.88055 569.08789)" class="st9 st10 st11">Nantong</text>
+	</g>
+	<circle class="st12" cx="699.32465" cy="567.62988" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">121 Nantong</text>
+</g>
+<g class="hover">
+	<rect x="384.75488" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 652.89667 580.00494)" class="st9 st10 st11">Wuxi</text>
+	</g>
+	<circle class="st12" cx="685.56201" cy="567.33203" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">65 Wuxi</text>
+</g>
+<g class="hover">
+	<rect x="588.69592" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 681.35486 562.7511)" class="st9 st10 st11">Changzhou</text>
+	</g>
+	<circle class="st12" cx="675.95331" cy="563.18658" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">99 Changzhou</text>
+</g>
+<g class="hover">
+	<rect x="450.76343" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 698.80853 527.50433)" class="st9 st10 st11">Qingdao</text>
+	</g>
+	<circle class="st12" cx="692.2876" cy="523.26764" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">76 Qingdao</text>
+</g>
+<g class="hover">
+	<rect x="1042.84802" y="289.75113" class="st7" width="5.38867" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 660.44849 512.72986)" class="st9 st10 st11">Yantai</text>
+	</g>
+	<circle class="st12" cx="700.60315" cy="509.8002" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">175 Yantai</text>
+</g>
+<g class="hover">
+	<rect x="1102.94104" y="289.75113" class="st7" width="5.38867" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 687.34796 487.26389)" class="st9 st10 st11">Dalian</text>
+	</g>
+	<circle class="st12" cx="703.97559" cy="494.78674" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">185 Dalian</text>
+</g>
+<g class="hover">
+	<rect x="893.61139" y="250.82217" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 548.71729 543.70013)" class="st9 st10 st11">Xian</text>
+	</g>
+	<circle class="st12" cx="579.13251" cy="540.75311" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">150 Xian</text>
+</g>
+<g class="hover">
+	<rect x="559.11865" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 575.38983 527.71265)" class="st9 st10 st11">Zhengzhou</text>
+	</g>
+	<circle class="st12" cx="632.13593" cy="535.12848" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">94 Zhengzhou</text>
+</g>
+<g class="hover">
+	<rect x="840.37231" y="250.82217" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 623.75049 519.20441)" class="st9 st10 st11">Jinan</text>
+	</g>
+	<circle class="st12" cx="659.84558" cy="517.37897" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">141 Jinan</text>
+</g>
+<g class="hover">
+	<rect x="254.20322" y="172.96428" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 596.93646 585.70276)" class="st9 st10 st11">Wuhan</text>
+	</g>
+	<circle class="st12" cx="640.36115" cy="582.42059" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">43 Wuhan</text>
+</g>
+<g class="hover">
+	<rect x="402.50125" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 569.79083 606.27893)" class="st9 st10 st11">Changsha</text>
+	</g>
+	<circle class="st12" cx="630.21582" cy="601.9472" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">68 Changsha</text>
+</g>
+<g class="hover">
+	<rect x="1174.86499" y="289.75113" class="st7" width="5.38867" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 644.45734 610.74298)" class="st9 st10 st11">Nanchang</text>
+	</g>
+	<circle class="st12" cx="648.52502" cy="595.07495" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">197 Nanchang</text>
+</g>
+<g class="hover">
+	<rect x="248.28775" y="172.96428" class="st7" width="5.38863" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 616.94513 559.94525)" class="st9 st10 st11">Nanjing</text>
+	</g>
+	<circle class="st12" cx="664.05432" cy="561.47394" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">42 Nanjing</text>
+</g>
+<g class="hover">
+	<rect x="1036.9325" y="289.75113" class="st7" width="5.38867" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 613.39844 553.20953)" class="st9 st10 st11">Zhenjiang</text>
+	</g>
+	<circle class="st12" cx="670.82678" cy="558.08331" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">174 Zhenjiang</text>
+</g>
+<g class="hover">
+	<rect x="970.92401" y="289.75113" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 680.32922 543.828)" class="st9 st10 st11">Yangzhou</text>
+	</g>
+	<circle class="st12" cx="677.19733" cy="549.72253" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">163 Yangzhou</text>
+</g>
+<g class="hover">
+	<rect x="1139.37231" y="289.75113" class="st7" width="5.38867" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 640.51038 536.19574)" class="st9 st10 st11">Xuzhou</text>
+	</g>
+	<circle class="st12" cx="659.05347" cy="543.25208" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">191 Xuzhou</text>
+</g>
+<g class="hover">
+	<rect x="1072.42529" y="289.75113" class="st7" width="5.38867" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 690.59552 554.54456)" class="st9 st10 st11">Taizhou</text>
+	</g>
+	<circle class="st12" cx="685.56549" cy="551.26843" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">180 Taizhou</text>
+</g>
+<g class="hover">
+	<rect x="864.03412" y="250.82217" class="st7" width="5.38861" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 616.86652 574.28259)" class="st9 st10 st11">Hefei</text>
+	</g>
+	<circle class="st12" cx="652.06464" cy="566.63092" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">145 Hefei</text>
+</g>
+<g class="hover">
+	<rect x="1192.61133" y="289.75113" class="st7" width="5.38867" height="15"/>
+	<g>
+		<text transform="matrix(1 0 0 1 717.77325 469.72623)" class="st9 st10 st11">Shenyang</text>
+	</g>
+	<circle class="st12" cx="711.61639" cy="465.75174" r="3.99978"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">200 Shenyang</text>
+</g>
+<g class="hover">
+	<rect x="97.58579" y="172.96428" class="st7" width="5.38862" height="15"/>
+	<circle class="st12" cx="656.6662" cy="482.80295" r="3.99978"/>
+	<g>
+		<text transform="matrix(1 0 0 1 638.61206 473.10089)" class="st9 st10 st11">Beijing</text>
+	</g>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">17 Beijing</text>
+</g>
+<g class="hover">
+	<rect x="487.19467" y="211.89323" class="st7" width="5.38861" height="15"/>
+	<circle class="st12" cx="668.92212" cy="491.24713" r="3.99978"/>
+	<g>
+		<text transform="matrix(1 0 0 1 626.18555 497.60608)" class="st9 st10 st11">Tianjin</text>
+	</g>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">82 Tianjin</text>
+</g>
+<g class="hover">
+	<rect x="260.11865" y="172.96428" class="st7" width="5.38861" height="15"/>
+	<circle class="st12" cx="701.53357" cy="632.47314" r="3.99978"/>
+	<g>
+		<text transform="matrix(1 0 0 1 707.63794 636.3147)" class="st9 st10 st11">Taipei</text>
+	</g>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">44 Taipei</text>
+</g>
+<g class="hover">
+	<rect x="749.76343" y="250.82217" class="st7" width="5.38861" height="15"/>
+	<circle class="st12" cx="693.14905" cy="654.97772" r="3.99978"/>
+	<g>
+		<text transform="matrix(1 0 0 1 699.27332 659.37158)" class="st9 st10 st11">Kaohsiung</text>
+	</g>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="st8 st4 st3a">126 Kaohsiung</text>
+</g>
+<g id="shenzhen">
+	<rect x="19.74636" y="172.96428" class="shRect" width="5.38862" height="15"/>
+	<text transform="matrix(1 0 0 1 125 380.5)" class="shRank">4 Shenzhen</text>
+	<g>
+		<text transform="matrix(1 0 0 1 647.82123 650.40912)" class="sh">Shenzhen</text>
+	</g>
+	<circle class="shCircle" cx="640.87469" cy="650.37671" r="3.99978"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,145 @@
+jQuery(document).ready(function ($) {
+    $(".stickyLinks").delay(3000).fadeIn(1000); // FIXED LINKS
+    
+    ////////////////////////DEVICES DETECTION  -  OPTIONAL
+    //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    
+    // Use the following code to detect and modify devices target
+    /*
+	var deviceAgent = navigator.userAgent.toLowerCase();
+	var agentID = deviceAgent.match(/(iphone|ipod|ipad)/);
+	if (agentID) {
+        // SPECIFIC CODE FOR DEVICES
+        console.log('Ipad, Iphone or ipod user detected');
+	}    
+    else if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+        console.log('Safari user detected');
+    }
+    
+    //::::::::::::::::::::::::::::::::::::::::::::::::::::::: OTHER DEVICES LIST
+    /*
+    /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i
+    */
+    
+    ////////////////////////SAFE PROTOCOL
+    //:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    
+    //enable this code when you finish your project, 
+    // it will check if you are on http and rdirect to https
+    
+    
+    /*if(window.location.protocol != 'https:') {
+      location.href =   location.href.replace("http://", "https://");
+    }*/
+    
+    $("#us").change(function(){
+        $("#top200 .map").fadeOut();
+        $("#us-d").fadeIn();
+        $("#us-m").fadeIn();
+    });
+    $("#ger").change(function(){
+        $("#top200 .map").fadeOut();
+        $("#ge-d").fadeIn();
+        $("#ge-m").fadeIn();
+    });
+    $("#chi").change(function(){
+        $("#top200 .map").fadeOut();
+        $("#ch-d").fadeIn();
+        $("#ch-m").fadeIn();
+    });
+    $("#bri").change(function(){
+        $("#top200 .map").fadeOut();
+        $("#br-d").fadeIn();
+        $("#br-m").fadeIn();
+    });
+    $("#jap").change(function(){
+        $("#top200 .map").fadeOut();
+        $("#ja-d").fadeIn();
+        $("#ja-m").fadeIn();
+    });
+    
+    
+    var winWidth = $(window).width();
+    var rankHeight;
+    var tspace;
+    if (winWidth > 425) {
+        rankHeight = 1478;
+        tspace = 0.04
+    } else {
+        rankHeight = winWidth * 3.35;
+        tspace = 0.056;
+    }
+    
+    if (winWidth < 780) {
+        var controller = new ScrollMagic.Controller();
+        var scene = new ScrollMagic.Scene({triggerElement: "#radioInput",triggerHook: tspace,duration:rankHeight})
+						.setPin("#radioInput", {pushFollowers: false})
+						.addTo(controller);
+    }   
+    
+    $('#selector_01').on('change', function (){
+        $(".byNumbersA .map").fadeOut();
+             if (this.value == '01') {$("#target01a").fadeIn();}
+        else if (this.value == '02') {$("#target02a").fadeIn();}
+        else if (this.value == '03') {$("#target03a").fadeIn();}
+        else if (this.value == '04') {$("#target04a").fadeIn();}
+        else if (this.value == '05') {$("#target05a").fadeIn();}
+        else if (this.value == '06') {$("#target06a").fadeIn();}
+        else if (this.value == '07') {$("#target07a").fadeIn();}
+        else if (this.value == '08') {$("#target08a").fadeIn();}
+        else if (this.value == '09') {$("#target09a").fadeIn();}
+        else if (this.value == '10') {$("#target10a").fadeIn();}
+    });
+    $('#selector_02').on('change', function (){
+        $(".byNumbersB .map").fadeOut();
+             if (this.value == '01') {$("#target01b").fadeIn();}
+        else if (this.value == '02') {$("#target02b").fadeIn();}
+        else if (this.value == '03') {$("#target03b").fadeIn();}
+        else if (this.value == '04') {$("#target04b").fadeIn();}
+        else if (this.value == '05') {$("#target05b").fadeIn();}
+        else if (this.value == '06') {$("#target06b").fadeIn();}
+        else if (this.value == '07') {$("#target07b").fadeIn();}
+        else if (this.value == '08') {$("#target08b").fadeIn();}
+        else if (this.value == '09') {$("#target09b").fadeIn();}
+        else if (this.value == '10') {$("#target10b").fadeIn();}
+    });
+    
+    
+    
+    $('#IE_hack button').click(function(){$('#IE_hack').hide();});
+});
+/*-------------------------------------------------------------------------------LEFT SIDE MENU--------------------------------- */
+function openMenu() {
+    var e = document.getElementById("leftmenu");
+    if (e.style.width == '280px') {
+        e.style.width = '0px';
+    }
+    else {
+        e.style.width = '280px';
+    }
+}
+/*-------------------------------------------------------------------------------HIDE OPTION ON SCROLL-------------------------- */
+var scrollDown = 0;
+$(window).scroll(function (event) {
+    var up = $(this).scrollTop();
+    if (up > scrollDown) {
+        $('.stickyLinks').removeClass('active');
+    }
+    else {
+        $('.stickyLinks').addClass('active');
+    }
+    scrollDown = up;
+    var scroll = $(window).scrollTop();
+    if (scroll >= 200) {
+        $(".stickyLinks").addClass("hidden");
+    }
+    else {
+        $(".stickyLinks").removeClass("hidden");
+    }
+});
+
+if(window.addEventListener) {
+        window.addEventListener("orientationchange", function() {
+            location.reload();
+        });
+}
